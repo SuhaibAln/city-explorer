@@ -1,0 +1,20 @@
+[
+  {
+    "_id": 1,
+    "cityName": "Seattle",
+    "lat": "48",
+    "lon": "122"
+  },
+  {
+    "_id": 1,
+    "cityName": "Portland",
+    "lat": "45",
+    "lon": "123"
+  },
+  {
+    "_id": 1,
+    "cityName": "Olympia",
+    "lat": "47",
+    "lon": "123"
+  }
+]
