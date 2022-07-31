@@ -20,7 +20,10 @@ This application allows the user to search for a city and see current weather, a
 01-01-2001 4:59pm - Application now has a fully-functional express server, with a GET route for the location resource. -->
 
 ## Credit and Collaborations
-<!-- Give credit (and a link) to other people or resources that helped you build this application. -->
+Day One Partner: Ruba Albrezat
+
+
+
 
 
 Name of feature: Set up your React repository & API keys.
