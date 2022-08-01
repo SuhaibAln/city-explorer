@@ -12,7 +12,8 @@ This application allows the user to search for a city and see current weather, a
 
 ## Architecture
 <!-- Provide a detailed description of the application design. What technologies (languages, libraries, etc) you're using, and any other relevant design information. -->
-[Lab06 white board]("./src/img/lab-06-whiteboard.png")
+![whiteboard](./src/img/lab-06-whiteboard.png)
+
 
 ## Change Log
 <!-- Use this area to document the iterative changes made to your application as each feature is successfully implemented. Use time stamps. Here's an example:
