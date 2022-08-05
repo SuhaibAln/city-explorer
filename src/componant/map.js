@@ -4,7 +4,7 @@ class Map extends React.Component {
     constructor(props) {
         super(props);
         this.mapSearchUrl = 'https://maps.locationiq.com/v3/staticmap?';
-        this.locationApiKey = process.env.REACT_APP_LOCATION_IQ_API_KEY;
+        this.locationApiKey = process.env.REACR_APP_LOCATION_KEY;
     }
 
     render() {
